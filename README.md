@@ -53,4 +53,7 @@ Current Ripple (Delta I) = 0.1A
 
 ## Simulation
 ## Output
+
+![EXPERIMENT 5 Simulation of stepdown chopper](https://github.com/user-attachments/assets/158d3ad6-91ef-41a8-8a4d-6f2889320e41)
+
 ## Result
